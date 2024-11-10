@@ -10,3 +10,7 @@ This scripts makes an animated gif signature for mail. The script uses the funct
 ffmpeg -framerate 50 -i %07d.png   signature10.gif
 ```
 3. Play arround with the ffmeg setting for speed and color
+
+
+### Result
+![Demo Signature 10A](images/Sig10A.gif)
