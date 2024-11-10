@@ -1,1 +1,8 @@
+# Negeer alle .png-bestanden
+*.png
 *.gif
+*.tar
+
+# Maak een uitzondering voor 
+!Sig10A.gif
+
